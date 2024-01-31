@@ -2,7 +2,7 @@
 
 This is Yutaro's Github. 
 
-I currently work at Dana-Faber Cancer Institute, Department of Pediatric Oncology (+ Broad Institute) with Drs. Gillani, Van Allen, and Janeway studying pediatric solid tumor cancers using computational biology methods. I graduated from Columbia Engineering in 2023 majoring in Applied Mathematics (Quantitative Biology) and minoring in Biomedical Engineering and Philosophy. During my time at Columbia, I conducted research in adverse drug events and pharmacogenomics in the @tatonetti-lab
+I currently work at Dana-Faber Cancer Institute, Department of Pediatric Oncology (+ Broad Institute) with Drs. Gillani, Van Allen, and Janeway studying pediatric solid tumor cancers using computational biology methods. I graduated from Columbia Engineering in 2023 majoring in Applied Mathematics (Quantitative Biology) and minoring in Biomedical Engineering and Philosophy. During my time at Columbia, I conducted research in adverse drug events and pharmacogenomics in the Tatonetti Lab. 
 
 - I'm interested in using [computational biology / biomedical informatics / data science] methods to study [pediatric cancer / rare disease / precision pharmacology].
 - I can be most easily reached at yutaro_tanaka [at] dfci.harvard.edu 
