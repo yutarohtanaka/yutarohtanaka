@@ -7,7 +7,7 @@ This is Yutaro's Github. (Pronounced "You-tar-roe")
   - During my time at Columbia, I conducted research in adverse drug events and pharmacogenomics in the [Tatonetti Lab](https://tatonettilab.org). 
 
 - I'm interested in using [computational biology / biomedical informatics / data science] methods to study [pediatric cancers / rare diseases / population genetics / precision pharmacology].
-- My recent published work will be available to access on my [google scholar](https://scholar.google.com/citations?user=w7241CQAAAAJ&hl=en) page. Lots more (hopefully) coming soon!
+- My recent published work will be available to access on [google scholar](https://scholar.google.com/citations?user=w7241CQAAAAJ&hl=en) or [orcid](https://orcid.org/0009-0004-1060-7065). More (hopefully) coming soon!
 - I can be most easily reached at yutaro_tanaka [at] dfci.harvard.edu 
 
 
