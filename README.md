@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-This is Yutaro's Github. (Pronounced "You-tar-roe") 
+This is Yutaro's Github. (Pronounced "Yuu-tar-roe") 
 
 - I currently work at [Dana-Farber Cancer Institute](https://vanallenlab.dana-farber.org/), Department of Pediatric Oncology (+ Broad Institute, Cancer Program) with Drs. Riaz Gillani, Eli Van Allen, and Katie Janeway studying the genetic mechanisms of pediatric solid tumor cancers such as Osteosarcoma and Ewing's Sarcoma using "omics" data and computational biology methods.
 - I graduated from Columbia Engineering in May 2023 majoring in Applied Mathematics (focused on Quantitative Biology) and minors in Biomedical Engineering and Philosophy.
