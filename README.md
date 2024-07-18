@@ -9,7 +9,7 @@ this is yutaro's github. (pronounced "yuu-tar-roe")
 
 ---
 
-- i'm very broadly interested in the application of [computational biology / biomedical informatics / data science / population genetics] methods to study [pediatric cancers / rare diseases / precision pharmacology], and the interface of these domains and disciplines intertwined.
+- i'm very broadly interested in the application of [computational biology / biomedical informatics / data science / population genetics] methods to study [pediatric cancer / rare disease / precision pharmacology], and the interface of these domains and disciplines intertwined.
 - my recent work (that has been somewhat polished) is available on [google scholar](https://scholar.google.com/citations?user=w7241CQAAAAJ&hl=en) or [orcid](https://orcid.org/0009-0004-1060-7065). more (hopefully) coming soon!
 - i can be most easily reached at yutaro_tanaka [at] dfci.harvard.edu . happy to collaborate, talk anything and everything computational biology and data science!
 
@@ -17,7 +17,7 @@ this is yutaro's github. (pronounced "yuu-tar-roe")
 
 - when i'm not on vscode/stack overflow/chatgpt, i can be found usually
   - :bicyclist: :swimmer: :runner: :mahjong: :sleeping:
-  - watching :soccer:
+  - watching :soccer: :baseball: 
   - reading :books:
 - i care greatly about improving equity in access to educational opportunities, and have tried to use my time to contribute to efforts to achieve this in different ways.
   - co-founding [atelier basi](https://atelierbasi.com/), to assist more high school students from across Japan access higher education across the globe
