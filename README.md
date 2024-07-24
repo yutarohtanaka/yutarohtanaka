@@ -2,10 +2,12 @@
 
 this is yutaro's github. (pronounced "yuu-tar-roe") 
 
-- i currently work at the [dana-farber cancer institute](https://vanallenlab.dana-farber.org/), department of pediatric oncology (+ broad institute, cancer program) with drs. riaz gillani, eli van allen, and katie janeway! we study the genetic mechanisms of pediatric solid tumors using different kinds of "omics" data and computational biology methods. we aim to hopefully better understand why and how these cancers arise, develop, metastasize (travel and plant themselves in different parts of the body), and how we might be able to treat them.
+- i am currently based in boston, us / tokyo, jp.
+- i currently work at the [dana-farber cancer institute](https://vanallenlab.dana-farber.org/), department of pediatric oncology (+ broad institute, cancer program) with drs. riaz gillani, eliezer van allen, and katie janeway. we study the genetic mechanisms of pediatric solid tumors using different kinds of "omics" data and computational biology methods. we aim to hopefully better understand why and how these cancers arise, develop, metastasize (travel and plant themselves in different parts of the body), and how we might be able to treat them.
 - i graduated from columbia engineering in may 2023 majoring in applied mathematics (with a focus on quantitative biology) and minors in biomedical engineering and philosophy.
   - during my time at columbia, i was incredibly fortunate to have the opportunity to do research in the [Tatonetti Lab](https://tatonettilab.org) working on understanding and building databases for adverse drug events and pharmacogenomics using population genomics, data science, and natural language processing.
-- before then, i grew up in japan (osaka and nara), and england (cambridge and leeds).
+  - i am also extremely greatful to have had the opportunity to work at [zhao lab at the rockefeller university](https://zhaolab.rockefeller.edu/), [sumikura lab at the national graduate institute of policy studies](https://www.grips.ac.jp/list/en/facultyinfo/sumikura_koichi/), [utec](http://www.ut-ec.co.jp/english/), [forest inc.](https://www.forest-inc.jp/), [lily medtech](https://www.lilymedtech.com/en/), and [micin](https://micin.jp/en) through research internships. i gained diverse experience tackling computational problems, contributing to quantitative academic research and strategic industry efforts, and founding/leading data science teams. 
+- before my undergraduate studies, i grew up in japan (osaka and nara), and england (cambridge and leeds).
 
 ---
 
@@ -23,4 +25,4 @@ this is yutaro's github. (pronounced "yuu-tar-roe")
   - co-founding [atelier basi](https://atelierbasi.com/), to assist more high school students from across Japan access higher education across the globe
   - volunteering through [musical mentors](https://www.musical-mentors.org/) to teach violin and piano to local elementary students in New York
   - volunteering through [project tutors](https://communityimpact.columbia.edu/our-programs/project-tutors) to assist teachers at a elementary school in New York
-  - i am always happy to contribute to all kinds of efforts in this vein, please reach out if you have anything i may be a good fit for! 
+  - i am always eager to contribute to all kinds of efforts, please reach out if you have anything i may be a good fit for!
