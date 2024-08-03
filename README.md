@@ -16,7 +16,7 @@ this is yutaro's github. (pronounced "yuu-tar-roe")
 
 #### my academic interests
 - **my current research interests are the development and application of computational/statistical methods and resources to contribute to the understanding of biological mechanisms and discovery of therapeutic targets in pediatric and rare diseases**
-  - more broadly, i'm interested in the intersection of 
+  - more broadly, i'm interested in the questions that involve some intersection of 
     - applying *computational biology / biomedical informatics / data science / population genetics* **methods**
     - developing *machine-friendly / large-scale / broadly representative* **data resources**
     - studying *pediatric cancers / rare diseases / precision pharmacology / underrepresented populations in biomedicine* **domains**
