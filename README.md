@@ -15,9 +15,14 @@ this is yutaro's github. (pronounced "yuu-tar-roe")
 ---
 
 #### my academic interests
-- i'm very broadly interested in the application of [computational biology / biomedical informatics / data science / population genetics] methods to study [pediatric cancer / rare disease / precision pharmacology], and the interface of these domains and disciplines intertwined.
+- **my current research interests are the development and application of computational/statistical methods and resources to contribute to the understanding of biological mechanisms and discovery of therapeutic targets in pediatric and rare diseases**
+  - more broadly, i'm interested in the intersection of 
+    - applying *computational biology / biomedical informatics / data science / population genetics* **methods**
+    - developing *machine-friendly / large-scale / broadly representative* **data resources**
+    - studying *pediatric cancers / rare diseases / precision pharmacology / underrepresented populations in biomedicine* **domains**
 - my recent work (that has been somewhat polished) is available on [google scholar](https://scholar.google.com/citations?user=w7241CQAAAAJ&hl=en) or [orcid](https://orcid.org/0009-0004-1060-7065). more (hopefully) coming soon!
-- i can be most easily reached at yutaro_tanaka [at] dfci.harvard.edu . happy to collaborate, talk anything and everything computational biology and data science!
+- i can be most easily reached at yutaro_tanaka [at] dfci.harvard.edu .
+- happy to collaborate, talk anything and everything computational biology and data science! (i am also happy to talk wet-lab, but am a lot less well versed in experimental science)
 
 ---
 
