@@ -2,8 +2,10 @@
 
 this is yutaro's github. (pronounced "yuu-tar-roe") 
 
+**tl;dr - yutaro tanaka is a computational biologist at dana-farber cancer institute interested in studying pediatric cancer using computational methods. he graduated from columbia engineering, where he studied + did research in applied math/biomedical informatics. he also does other, non-coding things sometimes.**
+
 #### about yutaro 
-- i am currently based in boston, us / tokyo, jp.
+- i am currently based in boston :us: / tokyo :jp:
 - i currently work at the [dana-farber cancer institute](https://vanallenlab.dana-farber.org/), department of pediatric oncology (+ broad institute, cancer program) with drs. riaz gillani, eliezer van allen, and katie janeway.
   - we study the biological mechanisms of pediatric solid tumor cancers using different kinds of "omics" data (eg. genomics, transcriptomics, epigenomics) leveraging computational biology methods.
   - we aim to hopefully better understand why and how these cancers arise, develop, and metastasize (travel and plant themselves in different parts of the body), to provide insight into how we might be able to treat and cure them.
