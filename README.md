@@ -2,21 +2,26 @@
 
 this is yutaro's github. (pronounced "yuu-tar-roe") 
 
+#### about yutaro 
 - i am currently based in boston, us / tokyo, jp.
-- i currently work at the [dana-farber cancer institute](https://vanallenlab.dana-farber.org/), department of pediatric oncology (+ broad institute, cancer program) with drs. riaz gillani, eliezer van allen, and katie janeway. we study the genetic mechanisms of pediatric solid tumors using different kinds of "omics" data and computational biology methods. we aim to hopefully better understand why and how these cancers arise, develop, metastasize (travel and plant themselves in different parts of the body), and how we might be able to treat them.
+- i currently work at the [dana-farber cancer institute](https://vanallenlab.dana-farber.org/), department of pediatric oncology (+ broad institute, cancer program) with drs. riaz gillani, eliezer van allen, and katie janeway.
+  - we study the biological mechanisms of pediatric solid tumor cancers using different kinds of "omics" data (eg. genomics, transcriptomics, epigenomics) leveraging computational biology methods.
+  - we aim to hopefully better understand why and how these cancers arise, develop, and metastasize (travel and plant themselves in different parts of the body), to provide insight into how we might be able to treat and cure them.
 - i graduated from columbia engineering in may 2023 majoring in applied mathematics (with a focus on quantitative biology) and minors in biomedical engineering and philosophy.
   - during my time at columbia, i was incredibly fortunate to have the opportunity to do research in the [Tatonetti Lab](https://tatonettilab.org) working on understanding and building databases for adverse drug events and pharmacogenomics using population genomics, data science, and natural language processing.
-  - i am also extremely greatful to have had the opportunity to work at [zhao lab at the rockefeller university](https://zhaolab.rockefeller.edu/), [sumikura lab at the national graduate institute of policy studies](https://www.grips.ac.jp/list/en/facultyinfo/sumikura_koichi/), [utec](http://www.ut-ec.co.jp/english/), [forest inc.](https://www.forest-inc.jp/), [lily medtech](https://www.lilymedtech.com/en/), and [micin](https://micin.jp/en) through research internships. i gained diverse experience tackling computational problems, contributing to quantitative academic research and strategic industry efforts, and founding/leading data science teams. 
+  - i am also extremely greatful to have had the opportunity to work at the [zhao lab at the rockefeller university](https://zhaolab.rockefeller.edu/), [sumikura lab at the national graduate institute of policy studies](https://www.grips.ac.jp/list/en/facultyinfo/sumikura_koichi/), [utec](http://www.ut-ec.co.jp/english/), [forest inc.](https://www.forest-inc.jp/), [lily medtech](https://www.lilymedtech.com/en/), and [micin](https://micin.jp/en) through various research internships. i gained diverse experience tackling computational problems, contributing to quantitative academic research and strategic industry efforts, founding/leading data science teams, and mentoring/supervising others. 
 - before my undergraduate studies, i grew up in japan (osaka and nara), and england (cambridge and leeds).
 
 ---
 
+#### my academic interests
 - i'm very broadly interested in the application of [computational biology / biomedical informatics / data science / population genetics] methods to study [pediatric cancer / rare disease / precision pharmacology], and the interface of these domains and disciplines intertwined.
 - my recent work (that has been somewhat polished) is available on [google scholar](https://scholar.google.com/citations?user=w7241CQAAAAJ&hl=en) or [orcid](https://orcid.org/0009-0004-1060-7065). more (hopefully) coming soon!
 - i can be most easily reached at yutaro_tanaka [at] dfci.harvard.edu . happy to collaborate, talk anything and everything computational biology and data science!
 
 ---
 
+#### my less academic interests
 - when i'm not on vscode/stack overflow/chatgpt, i can be found usually
   - :bicyclist: :swimmer: :runner: :mahjong: :sleeping:
   - watching :soccer: :baseball: 
