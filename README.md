@@ -27,7 +27,8 @@ this is yutaro's github. (pronounced "yuu-tar-roe")
   - watching :soccer: :baseball: 
   - reading :books:
 - i care greatly about improving equity in access to educational opportunities, and have tried to use my time to contribute to efforts to achieve this in different ways.
-  - co-founding [atelier basi](https://atelierbasi.com/), to assist more high school students from across Japan access higher education across the globe
-  - volunteering through [musical mentors](https://www.musical-mentors.org/) to teach violin and piano to local elementary students in New York
-  - volunteering through [project tutors](https://communityimpact.columbia.edu/our-programs/project-tutors) to assist teachers at a elementary school in New York
+  - co-founding [atelier basi](https://atelierbasi.com/), to assist more high school students from across japan access higher education across the globe
+  - volunteering through [musical mentors](https://www.musical-mentors.org/) to teach violin and piano to local elementary students in new york
+  - volunteering through [project tutors](https://communityimpact.columbia.edu/our-programs/project-tutors) to assist teachers at a elementary school in new york
   - i am always eager to contribute to all kinds of efforts, please reach out if you have anything i may be a good fit for!
+- (if you haven't noticed already) i try and not use uppercase letters unless i really have to. i think they make things look too serious. 
