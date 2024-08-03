@@ -26,14 +26,20 @@ this is yutaro's github. (pronounced "yuu-tar-roe")
 
 ---
 
-#### my less academic interests
-- when i'm not on vscode/stack overflow/chatgpt, i can be found usually
+#### my non-academic interests
+
+- when i'm not on vscode/stack overflow/chatgpt, i can usually be found
   - :bicyclist: :swimmer: :runner: :mahjong: :sleeping:
   - watching :soccer: :baseball: 
   - reading :books:
-- i care greatly about improving equity in access to educational opportunities, and have tried to use my time to contribute to efforts to achieve this in different ways.
-  - co-founding [atelier basi](https://atelierbasi.com/), to assist more high school students from across japan access higher education across the globe
-  - volunteering through [musical mentors](https://www.musical-mentors.org/) to teach violin and piano to local elementary students in new york
+
+- i care greatly about improving equity in access to educational opportunities, and have tried to use my free time to contribute to efforts to achieve this in different contexts.
+  - co-founding [atelier basi](https://atelierbasi.com/), a non-profit, free college-prep program to assist more high school students from across japan access higher education opportunities across the globe.
+    -  the program has mentored with ~90 students across japan over 4 years, many of whom went to high schools that had never sent a student to a college / university overseas, and lacked any college counseling resources. the organization has helped them matriculate at schools across the world, including highly selective institutions, and they have been awarded millions in private and school scholarships + financial aid.
+    -  i'm so proud of the successes our mentees have already achieved in their studies+personal+professional lives, and hearing how exposure to new environments have allowed them to flourish. 
+    -  i'm especially proud of the fact that the majority of them have returned to the organization as volunteers to pay it forward to the next generation of students.
+  - volunteering through [musical mentors](https://www.musical-mentors.org/) to teach violin and piano to local elementary students in new york.
   - volunteering through [project tutors](https://communityimpact.columbia.edu/our-programs/project-tutors) to assist teachers at a elementary school in new york
   - i am always eager to contribute to all kinds of efforts, please reach out if you have anything i may be a good fit for!
-- (if you haven't noticed already) i try and not use uppercase letters unless i really have to. i think they make things look too serious. 
+ 
+- (if you haven't noticed already) *i try to not use uppercase letters unless i really have to*. i think they make things look too serious. silly is better than serious.
