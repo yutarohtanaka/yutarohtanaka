@@ -2,7 +2,7 @@
 
 this is yutaro's github. (pronounced "yuu-tar-roe") 
 
-**tl;dr - yutaro tanaka is a computational biologist at dana-farber cancer institute interested in computationally studying pediatric cancer and other rare diseases. he graduated from columbia engineering, where he studied + did research in applied math/biomedical informatics. he also does other, non-coding things sometimes.**
+**tl;dr - yutaro tanaka is a computational biologist at dana-farber cancer institute interested in studying pediatric cancer and other rare diseases. he graduated from columbia engineering, where he studied + did research in applied math/biomedical informatics. he also does other, non-coding things sometimes.**
 
 #### about yutaro 
 - i am currently based in boston :us: / tokyo :jp:
