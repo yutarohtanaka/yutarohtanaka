@@ -7,7 +7,7 @@ this is yutaro's github. (pronounced "yuu-ta-roe")
 
 #### about yutaro 
 - i am currently based in boston :us: / tokyo :jp:
-- i currently work at the dana-farber cancer institute, department of pediatric oncology (+ broad institute, cancer program) in the [gillani lab](https://gillanilab.dana-farber.org/). i'm also fortunate to be affiliated with the [van allen](https://vanallenlab.dana-farber.org/), and [janeway](https://janewaylab.dana-farber.org) labs.
+- i currently work at the dana-farber cancer institute, department of pediatric oncology (+ broad institute, cancer program) in the [gillani lab](https://gillanilab.dana-farber.org/). i'm also fortunate to be affiliated with the [van allen](https://vanallenlab.dana-farber.org/) and [janeway](https://janewaylab.dana-farber.org) labs at dana-farber, and the broad institute, cancer program.
   - we study the biological mechanisms and therapeutic vulnerabilities of pediatric solid tumors by applying computational biology methods to different kinds of "omics" data (eg. genomics, transcriptomics, epigenomics).
   - we aim to hopefully better understand why and how these rare, aggressive cancers arise, develop, and metastasize (travel and plant themselves in different parts of the body), to gain insights into how we might be able to treat and cure them.
 - i graduated from columbia engineering in may 2023 majoring in applied mathematics (with a quantitative biology focus) and minoring in biomedical engineering and philosophy.
