@@ -8,11 +8,12 @@ this is yutaro's github. (pronounced "yuu-ta-roe")
 #### about yutaro 
 - i am currently based in boston :us: / tokyo :jp:
 - i currently work at the dana-farber cancer institute, department of pediatric oncology in the [gillani lab](https://gillanilab.dana-farber.org/). i'm also fortunate to be affiliated with the [van allen](https://vanallenlab.dana-farber.org/) and [janeway](https://janewaylab.dana-farber.org) labs at dana-farber, and the broad institute, cancer program.
-  - we study the biological mechanisms and therapeutic vulnerabilities of pediatric solid tumors by applying computational biology methods to different kinds of "omics" data (eg. genomics, transcriptomics, epigenomics).
-  - we aim to hopefully better understand why and how these rare, aggressive cancers arise, develop, and metastasize (travel and plant themselves in different parts of the body), to gain insights into how we might be able to treat and cure them.
+  - we aim to better understand why and how these rare, aggressive pediatric solid tumor cancers arise, develop, and metastasize (travel and plant themselves in different parts of the body).
+  - our group's longer term goal is to provide insights into how we might be able to target, treat and provide therapeutic options for them.
+  - we do this by applying computational biology methods to different kinds of "omics" data (eg. genomics, transcriptomics, epigenomics).
 - i graduated from columbia engineering in may 2023 majoring in applied mathematics (with a quantitative biology focus) and minoring in biomedical engineering and philosophy.
   - i was incredibly fortunate to have the opportunity to do research in the [tatonetti lab](https://tatonettilab.org) working on understanding and building databases for adverse drug events and pharmacogenomics using population genomics, data science, and natural language processing.
-  - i am also extremely greatful to have had the opportunity to work at the [zhao lab](https://zhaolab.rockefeller.edu/) (the rockefeller university), [sumikura lab](https://www.grips.ac.jp/list/en/facultyinfo/sumikura_koichi/) (the national graduate institute of policy studies), [utec](http://www.ut-ec.co.jp/english/), [forest inc.](https://www.forest-inc.jp/), [lily medtech](https://www.lilymedtech.com/en/), and [micin](https://micin.jp/en) through various research internships. i gained diverse experience tackling computational problems, contributing to quantitative academic research and strategic industry efforts, founding/leading data science teams, and mentoring/supervising others.
+  - i am also extremely greatful to have had the opportunity to work at the [zhao lab](https://zhaolab.rockefeller.edu/) (the rockefeller university), [sumikura lab](https://www.grips.ac.jp/list/en/facultyinfo/sumikura_koichi/) (the national graduate institute of policy studies), [utec](http://www.ut-ec.co.jp/english/), [forest inc.](https://www.forest-inc.jp/), [lily medtech](https://www.lilymedtech.com/en/), and [micin](https://micin.jp/en) through various research internships. through these positions, i was fortunate to have very diverse opportunities to tackle different computational problems, contribute to quantitative academic research and strategic industry efforts, found/lead data science teams, and mentor/supervise both younger and more senior colleagues.
 - before my undergraduate studies, i grew up in japan (osaka and nara), and england (cambridge and leeds).
 
 ---
@@ -20,8 +21,8 @@ this is yutaro's github. (pronounced "yuu-ta-roe")
 #### my academic interests
 - **my current research interests are the development and application of computational/statistical methods and resources to contribute to the understanding of biological mechanisms and discovery of therapeutic targets in pediatric and rare diseases**
   - more broadly, i'm interested in the questions that involve some intersection of 
-    - applying *computational biology / biomedical informatics / data science / population genetics* **methods**
-    - developing *machine-friendly / large-scale / broadly representative* **data resources**
+    - applying *computational biology / biomedical informatics / natural language processing / statistical genetics* **methods**
+    - developing *machine-friendly / large-scale / inclusive and representative* **data resources**
     - studying *pediatric cancers / rare diseases / precision pharmacology / underrepresented populations in biomedicine* **domains**
 - my recent work (that has been somewhat polished) is available on [google scholar](https://scholar.google.com/citations?user=w7241CQAAAAJ&hl=en) or [orcid](https://orcid.org/0009-0004-1060-7065). more (hopefully) coming soon!
 - i can be most easily reached at yutaro_tanaka [at] dfci.harvard.edu .
@@ -37,7 +38,7 @@ this is yutaro's github. (pronounced "yuu-ta-roe")
   - watching :soccer: :baseball: :movie_camera:
   - reading :books:
 
-- i care greatly about improving equity in access to educational opportunities, and have tried to use my free time to contribute to efforts to achieve this in different contexts.
+- i care greatly about improving equity in access to educational opportunities and mentorship, and have tried to use my free time to contribute to efforts to achieve this in different contexts.
   - co-founding [atelier basi](https://atelierbasi.com/), a non-profit, free college-prep program to assist more high school students from across japan access higher education opportunities across the globe.
     -  the program has mentored ~90 students across japan over the past 4 years, many of whom went to high schools that had never sent a student to a college / university overseas, and lacked any college counseling resources. the organization has helped them matriculate at schools across the world, including highly selective institutions. they have been awarded millions in scholarships + financial aid from private foundations and schools, many on full-rides.
     -  i'm so proud of the successes our mentees have already achieved in their academic/personal/professional lives, and hearing how new environments have allowed them to flourish. 
@@ -50,5 +51,4 @@ this is yutaro's github. (pronounced "yuu-ta-roe")
 #### afternote 
 (if you haven't noticed already) 
 - *i try to not use uppercase letters unless i really have to*. 
-  - i think they make things look too serious.
-  - silly is better than serious. 
+  - i think capital letters make text look too serious. silly is better than serious. 
