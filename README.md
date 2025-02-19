@@ -6,8 +6,8 @@ this is yutaro's github. (pronounced "yuu-ta-roe")
 **he graduated from columbia engineering, where he studied applied math/biomedical informatics. he also does other, non-coding things sometimes.**
 
 #### about yutaro 
-- i'm currently based in boston :us: / tokyo :jp:
-- i currently work at the dana-farber cancer institute, department of pediatric oncology in the [gillani lab](https://gillanilab.dana-farber.org/). i'm also fortunate to be affiliated with the [van allen](https://vanallenlab.dana-farber.org/) and [janeway](https://janewaylab.dana-farber.org) labs at dana-farber, and the broad institute, cancer program.
+- i'm currently based in boston :us: (and sometimes tokyo :jp:)
+- i currently work at the [dana-farber cancer institute](https://www.dana-farber.org/), department of pediatric oncology in the [gillani lab](https://gillanilab.dana-farber.org/). i'm also fortunate to be affiliated with the [van allen](https://vanallenlab.dana-farber.org/) and [janeway](https://janewaylab.dana-farber.org) labs at dana-farber, and the [broad institute](https://www.broadinstitute.org/), cancer program.
   - we aim to understand why and how these rare, aggressive pediatric solid tumors arise, develop, and metastasize (travel and plant themselves in different parts of the body).
   - our ultimate goal is to provide insights into how we might be able to target, treat and provide therapeutic options for them.
   - we do this by applying computational biology methods to different kinds of "omics" (eg. genomics, transcriptomics, epigenomics) data.
@@ -15,30 +15,33 @@ this is yutaro's github. (pronounced "yuu-ta-roe")
 - i graduated from columbia engineering in may 2023 majoring in applied mathematics (with a quantitative biology focus) and minoring in biomedical engineering and philosophy.
   - i was incredibly fortunate to have the opportunity to do research in the [tatonetti lab](https://tatonettilab.org) working on understanding and building databases for adverse drug events and pharmacogenomics using population genomics, data science, and natural language processing.
   - i'm also extremely greatful to have had the opportunity to work at the [zhao lab](https://zhaolab.rockefeller.edu/) (the rockefeller university), [sumikura lab](https://www.grips.ac.jp/list/en/facultyinfo/sumikura_koichi/) (the national graduate institute of policy studies, japan), [utec](http://www.ut-ec.co.jp/english/), [forest inc.](https://www.forest-inc.jp/), [lily medtech](https://www.lilymedtech.com/en/), and [micin](https://micin.jp/en) through various research internships. through these positions, i was fortunate to have very diverse opportunities to tackle different computational problems, develop my own research questions, contribute to quantitative academic research and strategic industry efforts, found/lead data science teams, and mentor/supervise both younger and more senior colleagues.
-- before my undergraduate studies, i grew up in japan (osaka and nara), and england (cambridge and leeds).
+- before my undergraduate studies, i grew up in :jp: (osaka and nara), and :england: (cambridge and leeds).
 
 ---
 
 #### my academic interests
-- **my current research interests are the development and application of computational/statistical methods and resources to contribute to the systematic understanding of biological mechanisms and discovery of therapeutic targets in pediatric and rare diseases**
+- **i'm currently most interested in the development and application of computational/statistical methods and resources to contribute to the systematic understanding of biological mechanisms and therapeutic target discovery in pediatric and rare diseases**
   - more broadly, i'm interested in the questions that involve some intersection of 
     - **methods** : application of *computational biology / biomedical informatics / natural language processing / statistical genetics*
     - **resources** : development of *machine-friendly / large-scale / inclusive / representative* datasets
-    - **domains** : dissection of *pediatric cancers / rare diseases / precision pharmacology / biomedically underrepresented populations*
-- my recent work (that has been somewhat polished) is available on [google scholar](https://scholar.google.com/citations?user=w7241CQAAAAJ&hl=en) or [orcid](https://orcid.org/0009-0004-1060-7065). more (hopefully) coming soon!
+    - **domains** : dissection of *pediatric cancer / rare disease / precision pharmacology / biomedically underrepresented populations*
+- my recent work (that has been somewhat polished) is available on [google scholar](https://scholar.google.com/citations?user=w7241CQAAAAJ&hl=en) or [orcid](https://orcid.org/0009-0004-1060-7065). more coming soon!
 - i can be most easily reached at yutaro_tanaka [at] dfci.harvard.edu .
 - happy to collaborate, talk anything and everything computational biology and data science! (i am also happy to talk wet-lab but no guarantees...)
-- another interest of mine is the "science of science" - in short, the use of (computational) approaches to understand how to we make "science" more interpretable, effective, predictable, and inclusive. 
+
+
+- another active interest of mine is the "science of science" - the use of data science to understand how to we make science more interpretable, effective, predictable, and inclusive. 
 
 ---
 
 #### my non-academic interests
 
-- when i'm not on vscode/stack overflow/chatgpt, i can usually be found
+- when i'm not on vscode/an llm, i can usually be found
   - triathlon-ing :bicyclist: :swimmer: :runner:
   - lounging :mahjong: :sleeping: :musical_note: :video_game:
   - watching :soccer: :baseball: :movie_camera:
   - reading :books:
+  - cooking 
 
 - i care greatly about improving equity in access to educational opportunities and mentorship, and have tried to use my free time to contribute to efforts to achieve this in different contexts.
   - co-founding [atelier basi](https://atelierbasi.com/), a non-profit, free college-prep program to assist more high school students from across japan access higher education opportunities across the globe.
@@ -49,6 +52,7 @@ this is yutaro's github. (pronounced "yuu-ta-roe")
   - volunteering through [project tutors](https://communityimpact.columbia.edu/our-programs/project-tutors) to assist teachers at a elementary school in new york
   - i am always eager to contribute to all kinds of efforts, please reach out if you have anything i may be a good fit for!
 
+---
 
 #### afternote 
 (if you haven't noticed already) 
